@@ -12,7 +12,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"baltic.json\/startBaltic"
+                 "value":"baltic.json#startBaltic"
                 }],
          "type":"tilelayer",
          "visible":true,
