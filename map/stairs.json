@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -12,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"baltic.json#startBaltic"
+                 "value":"balticOffice.json#startBaltic"
                 }],
          "type":"tilelayer",
          "visible":true,
