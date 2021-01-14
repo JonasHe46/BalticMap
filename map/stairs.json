@@ -19,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"balticOffice.json#startBaltic"
+                 "value":"baltic.json#startBaltic"
                 }],
          "type":"tilelayer",
          "visible":true,
